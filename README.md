@@ -1,6 +1,6 @@
 # Rails HW
 
-For homework, you will be building a rails application by following the [official Rails Tutorial](https://guides.rubyonrails.org/getting_started.html).
+You will be building a rails application by following the [official Rails Tutorial](https://guides.rubyonrails.org/getting_started.html).
 
 ## Required
 
